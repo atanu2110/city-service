@@ -1,4 +1,4 @@
-# Sample REST CRUD API with Spring Boot, H2, and JPA
+# City-Service API with Spring Boot, H2, and JPA
 
 #### Prerequisite 
 
